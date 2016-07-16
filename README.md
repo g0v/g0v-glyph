@@ -14,7 +14,7 @@ webfont pack. Details available in LICENSE.txt file.
   But any kind of additional authors crediting is welcome.
 ================================================================================
 
-<img src="https://raw.githubusercontent.com/g0v/glyph/master/demo.png"/>
+<img src="https://raw.githubusercontent.com/g0v/glyph/master/icons.png"/>
 
 Comments on archive content
 ---------------------------
