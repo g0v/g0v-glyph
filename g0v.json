@@ -1,8 +1,23 @@
 {
-   "name_zh" : "g0v 符號",
-   "repo" : "g0v/glyph",
-   "status" : "stable",
-   "author" : "shulusama",
-   "name" : "g0v glyph",
-   "homepage" : "https://g0v.github.io/glyph"
+  "repo" :"g0v/glyph",
+  "author" : "shulusama",
+  "status" : "Beta",
+  "name": "g0v glyph",
+  "name_zh": "g0v 符號",
+  "description": "g0v glyph",
+  "description_zh": "g0v 符號",
+  "homepage" : "",
+  "thumbnail" : "",
+  "document": "",
+  "repository": "https://github.com/g0v/glyph",
+  "licenses": [],
+  "keywords": [
+  ],
+  "audience": [
+    "public"
+  ],
+  "products" :[],
+  "partOf": "",
+  "contributors" :[],
+  "needs" : []
 }
